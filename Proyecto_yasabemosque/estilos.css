@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+    
+.contenedor{
+    background-image: url(file:///var/folders/_v/_1mf4dh96r7242slgm6v71zw0000gn/T/TemporaryItems/NSIRD_screencaptureui_xkjeTJ/Screenshot%202024-01-14%20at%2012.19.39%E2%80%AFAM.png);
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
